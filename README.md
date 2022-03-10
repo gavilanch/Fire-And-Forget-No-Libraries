@@ -1,4 +1,4 @@
-# Code for my video on ASP.NET Core: Fire And Forget No Libraries
+# Code for my video on ASP.NET Core: Fire And Forget, No Libraries
 
 Video: https://youtu.be/bBmBKN_ZVUA
 
