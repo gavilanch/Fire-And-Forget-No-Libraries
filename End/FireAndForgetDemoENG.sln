@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FireAndForgetDemoENG", "FireAndForgetDemoENG\FireAndForgetDemoENG.csproj", "{C16D204D-8DB2-491B-A660-9078D3A4A3BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C16D204D-8DB2-491B-A660-9078D3A4A3BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C16D204D-8DB2-491B-A660-9078D3A4A3BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C16D204D-8DB2-491B-A660-9078D3A4A3BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C16D204D-8DB2-491B-A660-9078D3A4A3BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50742AEC-FC9F-4E5B-BB8B-0AF46B9A0A46}
+	EndGlobalSection
+EndGlobal
